@@ -25845,10 +25845,6 @@
     }
   },
   {
-    "signature": "4BskHHPZqbGzATfZWPqBXKxhR3KBgfq7oifE84XB1vfiB8kahTYei79o9sNKhxXaQp6fMnQgV5x96iVcabjjLSjm",
-    "timestamp": 1710246583961
-  },
-  {
     "blockTime": 1710248151,
     "meta": {
       "computeUnitsConsumed": 41230,
